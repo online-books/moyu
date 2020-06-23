@@ -13,9 +13,10 @@
 
 ## 📃 书 籍
 
-| #️⃣   | 名称                  | 分类       | 链接                     | 备注 |
-| --- | --------------------- | ---------- | ------------------------ | ---- |
-| 1   | 你不知道的 JavaScript | JavaScript | [You-Dont-Know-JS][js01] |      |
+| #️⃣   | 名称                  | 分类       | 链接                        | 备注 |
+| --- | --------------------- | ---------- | --------------------------- | ---- |
+| 1   | 你不知道的 JavaScript | JavaScript | [You-Dont-Know-JS][js01]    |      |
+| 2   | Go入门指南            | Go         | [the-way-to-go_ZH_CN][go01] |      |
 
 ## 🆕 新 增
 
@@ -31,3 +32,4 @@
 
 <!-- Book link -->
 [js01]:https://github.com/Online-books/You-Dont-Know-JS
+[go01]:https://github.com/Online-books/the-way-to-go_ZH_CN

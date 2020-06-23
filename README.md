@@ -15,6 +15,7 @@ Collect free books on the Internet for recording and learning.
 | #️⃣   | Name                     | Type       | Link                    | Remark |
 | --- | ------------------------ | ---------- | ----------------------- | ------ |
 | 1   | You dont know JavaScript | JavaScript | [You-Dont-Know-JS][js1] |        |
+| 2   | the-way-to-go            | Go         | [the-way-to-go_ZH_CN][go01] |      |
 
 ## 🆕 New pull
 
@@ -29,3 +30,4 @@ If you have any suggestions or questions, please click here [Issue](https://gith
 
  <!-- Book link -->
 [js1]:https://github.com/Online-books/You-Dont-Know-JS
+[go01]:https://github.com/Online-books/the-way-to-go_ZH_CN
