@@ -8,14 +8,23 @@ Collect free books on the Internet for recording and learning.
 
 | #️⃣   | Name                                  | Remark |
 | --- | ------------------------------------- | ------ |
-| 1   | [free-programming-books-zh_CN][all01] |        |
+| 1   | [free-programming-books-zh_CN][all01] | -      |
+| 2   | [awesome-programming-books][all02]    | -      |
+| 2   | [free-books][all03]                   | -      |
 
 ## 📃 Contents
 
-| #️⃣   | Name                     | Type       | Link                    | Remark |
-| --- | ------------------------ | ---------- | ----------------------- | ------ |
-| 1   | You dont know JavaScript | JavaScript | [You-Dont-Know-JS][js1] |        |
-| 2   | the-way-to-go            | Go         | [the-way-to-go_ZH_CN][go01] |      |
+### Computer
+- [Dive into Deep Learning][com01]
+
+### JavaScript
+- [You-Dont-Know-JS][js01] 
+
+### Node.js
+- [node-lessons][node01]
+
+### Go
+- [the-way-to-go][go01]
 
 ## 🆕 New pull
 
@@ -27,7 +36,11 @@ If you have any suggestions or questions, please click here [Issue](https://gith
 
 <!-- Collection link  -->
 [all01]:https://github.com/Online-books/free-programming-books-zh_CN
+[all02]:https://github.com/Online-books/awesome-programming-books
+[all03]:https://github.com/Online-books/free-books
 
  <!-- Book link -->
-[js1]:https://github.com/Online-books/You-Dont-Know-JS
+[com01]:https://github.com/Online-books/d2l-zh
+[js01]:https://github.com/Online-books/You-Dont-Know-JS
+[node01]:https://github.com/Online-books/node-lessons
 [go01]:https://github.com/Online-books/the-way-to-go_ZH_CN

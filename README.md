@@ -8,15 +8,23 @@
 
 | #️⃣   | 名称                                  | 备注 |
 | --- | ------------------------------------- | ---- |
-| 1   | [free-programming-books-zh_CN][all01] |      |
-
+| 1   | [free-programming-books-zh_CN][all01] | -    |
+| 2   | [awesome-programming-books][all02]    | -    |
+| 2   | [free-books][all03]                   | -    |
 
 ## 📃 书 籍
 
-| #️⃣   | 名称                  | 分类       | 链接                        | 备注 |
-| --- | --------------------- | ---------- | --------------------------- | ---- |
-| 1   | 你不知道的 JavaScript | JavaScript | [You-Dont-Know-JS][js01]    |      |
-| 2   | Go入门指南            | Go         | [the-way-to-go_ZH_CN][go01] |      |
+### 计算机
+- [动手学深度学习][com01]
+
+### JavaScript
+- [你不知道的 JavaScript][js01] 
+
+### Node.js
+- [Node.js 包教不包会][node01]
+
+### Go
+- [Go入门指南][go01]
 
 ## 🆕 新 增
 
@@ -29,7 +37,11 @@
 
 <!-- Collection link  -->
 [all01]:https://github.com/Online-books/free-programming-books-zh_CN
+[all02]:https://github.com/Online-books/awesome-programming-books
+[all03]:https://github.com/Online-books/free-books
 
 <!-- Book link -->
+[com01]:https://github.com/Online-books/d2l-zh
 [js01]:https://github.com/Online-books/You-Dont-Know-JS
+[node01]:https://github.com/Online-books/node-lessons
 [go01]:https://github.com/Online-books/the-way-to-go_ZH_CN
