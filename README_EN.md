@@ -10,7 +10,8 @@ Collect free books on the Internet for recording and learning.
 | --- | ------------------------------------- | ------ |
 | 1   | [free-programming-books-zh_CN][all01] | -      |
 | 2   | [awesome-programming-books][all02]    | -      |
-| 2   | [free-books][all03]                   | -      |
+| 3   | [free-books][all03]                   | -      |
+| 4   | [practical-programming-books][all04]  | -      |
 
 ## 📃 Contents
 
@@ -18,13 +19,16 @@ Collect free books on the Internet for recording and learning.
 - [Dive into Deep Learning][com01]
 
 ### JavaScript
-- [You-Dont-Know-JS][js01] 
+- [You-Dont-Know-JS][js01]
 
 ### Node.js
 - [node-lessons][node01]
 
 ### Go
 - [the-way-to-go][go01]
+
+### nginx
+- [nginx-book][ngx01]
 
 ## 🆕 New pull
 
@@ -38,9 +42,11 @@ If you have any suggestions or questions, please click here [Issue](https://gith
 [all01]:https://github.com/Online-books/free-programming-books-zh_CN
 [all02]:https://github.com/Online-books/awesome-programming-books
 [all03]:https://github.com/Online-books/free-books
+[all04]:https://github.com/Online-books/practical-programming-books
 
  <!-- Book link -->
 [com01]:https://github.com/Online-books/d2l-zh
 [js01]:https://github.com/Online-books/You-Dont-Know-JS
 [node01]:https://github.com/Online-books/node-lessons
 [go01]:https://github.com/Online-books/the-way-to-go_ZH_CN
+[ngx01]:https://github.com/Online-books/nginx-book
