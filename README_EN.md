@@ -30,6 +30,9 @@ Collect free books on the Internet for recording and learning.
 ### nginx
 - [nginx-book][ngx01]
 
+## 🖥 Tutorial
+- [jstraining][jc01]
+
 ## 🆕 New pull
 
 If you have a new book recommendation to join, comment in [new pull](https://github.com/online-books/contents/issues/1), or you can open a new [Issue](https://github.com/online-books/contents/issues/new) .
@@ -50,3 +53,6 @@ If you have any suggestions or questions, please click here [Issue](https://gith
 [node01]:https://github.com/online-books/node-lessons
 [go01]:https://github.com/online-books/the-way-to-go_ZH_CN
 [ngx01]:https://github.com/online-books/nginx-book
+
+<!-- Study link -->
+[jc01]:https://github.com/online-books/jstraining
