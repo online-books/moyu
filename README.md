@@ -32,22 +32,22 @@
 
 ## 🆕 新 增
 
-若您有新的图书推荐加入，可在 [New pull](https://github.com/Online-books/contents/issues/1) 中评论，或新开一个 [Issue](https://github.com/Online-books/contents/issues/new) 申请。
+若您有新的图书推荐加入，可在 [New pull](https://github.com/online-books/contents/issues/1) 中评论，或新开一个 [Issue](https://github.com/online-books/contents/issues/new) 申请。
 
 ## 💭 说 明
 
-若您有任何建议、疑问，请点击这里 [Issue](https://github.com/Online-books/contents/issues) 。
+若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/contents/issues) 。
 
 
 <!-- Collection link  -->
-[all01]:https://github.com/Online-books/free-programming-books-zh_CN
-[all02]:https://github.com/Online-books/awesome-programming-books
-[all03]:https://github.com/Online-books/free-books
-[all04]:https://github.com/Online-books/practical-programming-books
+[all01]:https://github.com/online-books/free-programming-books-zh_CN
+[all02]:https://github.com/online-books/awesome-programming-books
+[all03]:https://github.com/online-books/free-books
+[all04]:https://github.com/online-books/practical-programming-books
 
 <!-- Book link -->
-[com01]:https://github.com/Online-books/d2l-zh
-[js01]:https://github.com/Online-books/You-Dont-Know-JS
-[node01]:https://github.com/Online-books/node-lessons
-[go01]:https://github.com/Online-books/the-way-to-go_ZH_CN
-[ngx01]:https://github.com/Online-books/nginx-book
+[com01]:https://github.com/online-books/d2l-zh
+[js01]:https://github.com/online-books/You-Dont-Know-JS
+[node01]:https://github.com/online-books/node-lessons
+[go01]:https://github.com/online-books/the-way-to-go_ZH_CN
+[ngx01]:https://github.com/online-books/nginx-book
