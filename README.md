@@ -33,6 +33,7 @@
 ## 🖥 教 程
 - [全栈工程师培训材料][jc01]
 - [Learning Google V8][jc02]
+- [100-days-of-angular][jc03]
 
 ## 🆕 新 增
 
@@ -59,3 +60,4 @@
 <!-- Study link -->
 [jc01]:https://github.com/online-books/jstraining
 [jc02]:https://github.com/online-books/learning-v8
+[jc03]:https://github.com/online-books/100-days-of-angular

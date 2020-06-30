@@ -33,6 +33,7 @@ Collect free books on the Internet for recording and learning.
 ## 🖥 Tutorial
 - [jstraining][jc01]
 - [Learning Google V8][jc02]
+- [100-days-of-angular][jc03]
 
 ## 🆕 New pull
 
@@ -58,3 +59,4 @@ If you have any suggestions or questions, please click here [Issue](https://gith
 <!-- Study link -->
 [jc01]:https://github.com/online-books/jstraining
 [jc02]:https://github.com/online-books/learning-v8
+[jc03]:https://github.com/online-books/100-days-of-angular
