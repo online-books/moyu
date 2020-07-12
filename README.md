@@ -1,7 +1,5 @@
 # 📚 在线图书
 
-简体中文 | [English](./README_EN.md)
-
 收集网络上免费图书，用于记录、学习。
 
 ## 📒 合 集
@@ -24,8 +22,14 @@
 ### Node.js
 - [Node.js 包教不包会][node01]
 
+### Vue
+- [Vue.js源码分析][vue01]
+
 ### Go
 - [Go入门指南][go01]
+
+### Css
+- [Css揭秘][css01]
 
 ### nginx
 - [Nginx开发从入门到精通][ngx01]
@@ -56,6 +60,8 @@
 [node01]:https://github.com/online-books/node-lessons
 [go01]:https://github.com/online-books/the-way-to-go_ZH_CN
 [ngx01]:https://github.com/online-books/nginx-book
+[vue01]:https://github.com/online-books/learnVue
+[css01]:https://github.com/online-books/CSS-Secrets
 
 <!-- Study link -->
 [jc01]:https://github.com/online-books/jstraining
