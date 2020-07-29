@@ -2,14 +2,22 @@
 
 收集网络上免费图书，用于记录、学习。
 
+- 📆 : 2020-07-29
+
 ## 📒 合 集
 
-| #️⃣  | 名称                                   | 备注 |
+| #️⃣   | 名称                                  | 备注 |
 | --- | ------------------------------------- | ---- |
 | 1   | [free-programming-books-zh_CN][all01] | -    |
 | 2   | [awesome-programming-books][all02]    | -    |
 | 3   | [free-books][all03]                   | -    |
 | 4   | [practical-programming-books][all04]  | -    |
+
+## 🗂 资 料
+
+| #️⃣   | 名称                    | 备注 |
+| --- | ----------------------- | ---- |
+| 1   | [hello-algorithm][zl01] |      |
 
 ## 📃 书 籍
 
@@ -48,13 +56,16 @@
 若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/contents/issues) 。
 
 
-<!-- Collection link  -->
+<!-- 合集 -->
 [all01]:https://github.com/online-books/free-programming-books-zh_CN
 [all02]:https://github.com/online-books/awesome-programming-books
 [all03]:https://github.com/online-books/free-books
 [all04]:https://github.com/online-books/practical-programming-books
 
-<!-- Book link -->
+<!-- 资料 -->
+[zl01]:https://github.com/online-books/hello-algorithm
+
+<!-- 书籍 -->
 [com01]:https://github.com/online-books/d2l-zh
 [js01]:https://github.com/online-books/You-Dont-Know-JS
 [node01]:https://github.com/online-books/node-lessons
@@ -63,7 +74,7 @@
 [vue01]:https://github.com/online-books/learnVue
 [css01]:https://github.com/online-books/CSS-Secrets
 
-<!-- Study link -->
+<!-- 教程 -->
 [jc01]:https://github.com/online-books/jstraining
 [jc02]:https://github.com/online-books/learning-v8
 [jc03]:https://github.com/online-books/100-days-of-angular
