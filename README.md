@@ -5,7 +5,7 @@
 当你无聊时，欢迎来这里摸鱼减压。
 
 - 📆 : **`2020-11-26`**
-- 📊 : **`53`**
+- 📊 : **`55`**
 
 ## 📒 合 集
 
@@ -19,23 +19,23 @@
 
 ## 🗂 资 料
 
-| #️⃣   | 名称                                   | 备注                           |
-| --- | -------------------------------------- | ------------------------------ |
-| 1   | [awesome-home-networking-cn][zl01]     | 家庭网络知识整理               |
-| 2   | [CognitiveInference][zl02]             | 认知推理、认知推理             |
-| 3   | [REKCARC-TSC-UHT][zl03]                | 清华大学计算机系课程攻略       |
-| 4   | [VS-Code-Extension-Doc-ZH][zl04]       | VS Code 插件开发文档           |
-| 5   | [A-Programmers-Guide-to-English][zl05] | 专为程序员编写的英语学习指南   |
-| 6   | xx                                     | xx                             |
-| 7   | [awesome-lowcode][zl07]                | 国内低代码平台从业者交流       |
-| 8   | [hacker-laws-zh][zl08]                 | 程序员定律                     |
-| 9   | [FEDiagram][zl09]                      | 各种前端技术图谱               |
-| 10  | [remote-working][zl10]                 | 中国远程工作资料大全           |
-| 11  | [shanghai_house_knowledge][zl11]       | 2020上海买房                   |
-| 12  | [hangzhou_house_knowledge][zl12]       | 2017杭州买房                   |
-| 13  | [14th][zl13]                           | 第十四届D2前端技术论坛「创心」 |
+| #️⃣   | 名称                               | 备注                           |
+| --- | ---------------------------------- | ------------------------------ |
+| 1   | [awesome-home-networking-cn][zl01] | 家庭网络知识整理               |
+| 2   | [CognitiveInference][zl02]         | 认知推理、认知推理             |
+| 3   | [REKCARC-TSC-UHT][zl03]            | 清华大学计算机系课程攻略       |
+| 4   | [VS-Code-Extension-Doc-ZH][zl04]   | VS Code 插件开发文档           |
+| 5   | xx                                 | xx                             |
+| 6   | xx                                 | xx                             |
+| 7   | [awesome-lowcode][zl07]            | 国内低代码平台从业者交流       |
+| 8   | [hacker-laws-zh][zl08]             | 程序员定律                     |
+| 9   | [FEDiagram][zl09]                  | 各种前端技术图谱               |
+| 10  | [remote-working][zl10]             | 中国远程工作资料大全           |
+| 11  | [shanghai_house_knowledge][zl11]   | 2020上海买房                   |
+| 12  | [hangzhou_house_knowledge][zl12]   | 2017杭州买房                   |
+| 13  | [14th][zl13]                       | 第十四届D2前端技术论坛「创心」 |
 
-## 🤺 面试
+## 🤺 面 试
 
 | #️⃣   | 名称                               | 备注         |
 | --- | ---------------------------------- | ------------ |
@@ -101,11 +101,17 @@
 ### 小程序
 
 1. [微信小程序教程库][xcx01]
+2. [微信小程序开发资源汇总][xcx02]
 
 ### 文学
 
 1. [毛泽东选集][wx01]
 2. [乾隆大藏经][wx02]
+
+### 英语
+
+1. [程序员工作中常见的英语词汇][yy01]
+2. [专为程序员编写的英语学习指南][yy02]
 
 ### 算法
 
@@ -197,9 +203,13 @@
 [ios01]:https://github.com/online-books/tips
 
 [xcx01]:https://github.com/online-books/wechat-miniprogram-demos
+[xcx02]:https://github.com/online-books/awesome-wechat-weapp
 
 [wx01]:https://github.com/online-books/MaoZeDongAnthology
 [wx02]:https://github.com/online-books/BuddhistScriptures2
+
+[yy01]:https://github.com/online-books/most-frequent-technology-english-words
+[yy02]:https://github.com/online-books/A-Programmers-Guide-to-English
 
 [sf01]:https://github.com/online-books/fucking-algorithm
 [sf02]:https://github.com/online-books/hello-algorithm
