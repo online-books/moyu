@@ -4,8 +4,8 @@
 
 随意点开，摸鱼减压。
 
-- 📆 : **`2020-11-27`**
-- 📊 : **`56`**
+- 📆 : **`2020-12-14`**
+- 📊 : **`67`**
 
 ## 📒 合 集
 
@@ -37,11 +37,12 @@
 
 ## 🤺 面 试
 
-| #️⃣   | 名称                                 | 备注         |
-| --- | ------------------------------------ | ------------ |
-| 1   | [CS-Notes][ms01]                     | 技术面试必备 |
-| 2   | [CS-Interview-Knowledge-Map][ms02]   | 面试图谱     |
-| 3   | [frontend-hard-mode-interview][ms03] | 前端内参     |
+| #️⃣   | 名称                                 | 备注                       |
+| --- | ------------------------------------ | -------------------------- |
+| 1   | [CS-Notes][ms01]                     | 技术面试必备               |
+| 2   | [CS-Interview-Knowledge-Map][ms02]   | 面试图谱                   |
+| 3   | [frontend-hard-mode-interview][ms03] | 前端内参                   |
+| 4   | [reverse-interview-zh][ms04]         | 技术面试最后反问面试官的话 |
 
 ## 📃 知 识
 
@@ -52,6 +53,7 @@
 3. [深度学习入门开源书][com03]
 4. [软件设计的哲学][com04]
 5. [密码学][com05]
+6. [机器学习][com06]
 
 ### JavaScript
 
@@ -60,6 +62,7 @@
 3. [javascript-testing-best-practices][js03]
 4. [Airbnb JavaScript Style Guide][js04]
 5. [ECMAScript 6入门][js05]
+6. [Understanding ECMAScript 6][js06]
 
 ### TypeScript
 
@@ -68,6 +71,7 @@
 ### Node.js
 
 1. [Node.js 包教不包会][node01]
+2. [如何正确的学习 Node.js][node02]
 
 ### Vue
 
@@ -87,9 +91,14 @@
 1. [Go 入门指南][go01]
 2. [玩转 Go][go02]
 
-### Css
+### Rust
 
-1. [Css 揭秘][css01]
+1. [The Rust Programming Language][rust01]
+
+### CSS
+
+1. [CSS 揭秘][css01]
+2. [CSS tricks][css02]
 
 ### Nginx
 
@@ -103,6 +112,7 @@
 
 1. [微信小程序教程库][xcx01]
 2. [微信小程序开发资源汇总][xcx02]
+3. [关于小程序文章和项目][xcx03]
 
 ### 文学
 
@@ -132,6 +142,10 @@
 
 1. [Web 端口敲门的奇思妙想][wz01]
 2. [今天，你逃避了么？][wz02]
+3. [若川的博客—前端视野][wz03]
+4. [前端精读周刊][wz04]
+5. [蚂蚁数据体验技术团队的文章仓库][wz05]
+6. [记录成长的过程][wz06]
 
 ## 🆕 新 增
 
@@ -140,8 +154,7 @@
 ## 💭 说 明
 
 - 资源均来自互联网。
-- 若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/moyu/issues) 。
-
+- 若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/moyu/issues)。
 
 <!-- 合集 -->
 [all01]:https://github.com/online-books/free-programming-books-zh_CN
@@ -155,8 +168,6 @@
 [zl02]:https://github.com/online-books/CognitiveInference
 [zl03]:https://github.com/online-books/REKCARC-TSC-UHT
 [zl04]:https://github.com/online-books/VS-Code-Extension-Doc-ZH
-[zl05]:https://github.com/online-books/A-Programmers-Guide-to-English
-
 [zl07]:https://github.com/online-books/awesome-lowcode
 [zl08]:https://github.com/online-books/hacker-laws-zh
 [zl09]:https://github.com/online-books/FEDiagram
@@ -169,7 +180,7 @@
 [ms01]:https://github.com/online-books/CS-Notes
 [ms02]:https://github.com/online-books/CS-Interview-Knowledge-Map
 [ms03]:https://github.com/online-books/frontend-hard-mode-interview
-
+[ms04]:https://github.com/online-books/reverse-interview-zh
 
 <!-- 书籍 -->
 [com01]:https://github.com/online-books/d2l-zh
@@ -177,16 +188,19 @@
 [com03]:https://github.com/online-books/Deep-Learning-with-TensorFlow-book
 [com04]:https://github.com/online-books/A-Philosophy-of-Software-Design-zh
 [com05]:https://github.com/online-books/cryptography
+[com06]:https://github.com/online-books/ML-NLP
 
 [js01]:https://github.com/online-books/You-Dont-Know-JS
 [js02]:https://github.com/online-books/jshistory-cn
 [js03]:https://github.com/online-books/javascript-testing-best-practices
 [js04]:https://github.com/online-books/javascript-style-guide
 [js05]:https://github.com/online-books/es6tutorial
+[js06]:https://github.com/online-books/understandinges6
 
 [ts01]:https://github.com/online-books/TypeScript
 
 [node01]:https://github.com/online-books/node-lessons
+[node02]:https://github.com/online-books/How-to-learn-node-correctly
 
 [go01]:https://github.com/online-books/the-way-to-go_ZH_CN
 [go02]:https://github.com/online-books/Mastering_Go_ZH_CN
@@ -200,12 +214,16 @@
 
 [ang01]:https://github.com/online-books/100-days-of-angular
 
+[rust01]:https://github.com/online-books/book
+
 [css01]:https://github.com/online-books/CSS-Secrets
+[css02]:https://github.com/online-books/You-need-to-know-css
 
 [ios01]:https://github.com/online-books/tips
 
 [xcx01]:https://github.com/online-books/wechat-miniprogram-demos
 [xcx02]:https://github.com/online-books/awesome-wechat-weapp
+[xcx03]:https://github.com/online-books/TNT-Weekly
 
 [wx01]:https://github.com/online-books/MaoZeDongAnthology
 [wx02]:https://github.com/online-books/BuddhistScriptures2
@@ -227,3 +245,7 @@
 <!-- 文章 -->
 [wz01]:https://github.com/online-books/js-port-knocking
 [wz02]:https://github.com/online-books/gitblog
+[wz03]:https://github.com/online-books/blog-1
+[wz04]:https://github.com/online-books/weekly-1
+[wz05]:https://github.com/online-books/blog-2
+[wz06]:https://github.com/online-books/Blog
