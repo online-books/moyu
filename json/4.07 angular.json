@@ -1,0 +1,12 @@
+{
+  "name": "Angular",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 7,
+  "repo": [
+    {
+      "name": "100-days-of-angular",
+      "url": "https://github.com/online-books/100-days-of-angular"
+    }
+  ]
+}

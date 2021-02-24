@@ -1,0 +1,16 @@
+{
+  "name": "Node.js",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 4,
+  "repo": [
+    {
+      "name": "Node.js 包教不包会",
+      "url": "https://github.com/online-books/node-lessons"
+    },
+    {
+      "name": "如何正确的学习 Node.js",
+      "url": "https://github.com/online-books/How-to-learn-node-correctly"
+    }
+  ]
+}

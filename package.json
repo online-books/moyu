@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "check-fork": "node ./actions/check-fork.js",
+    "up-readme": "node ./actions/update-readme.js"
+  },
+  "dependencies": {
+    "@octokit/rest": "^18.2.1",
+    "dotenv": "^8.2.0",
+    "glob": "^7.1.6"
+  }
+}

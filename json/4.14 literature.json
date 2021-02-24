@@ -1,0 +1,16 @@
+{
+  "name": "文学",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 14,
+  "repo": [
+    {
+      "name": "毛泽东选集",
+      "url": "https://github.com/online-books/MaoZeDongAnthology"
+    },
+    {
+      "name": "乾隆大藏经",
+      "url": "https://github.com/online-books/BuddhistScriptures2"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "name": "📒 合 集",
+  "lever": 2,
+  "order": 1,
+  "repo": [
+    {
+      "name": "free-programming-books-zh_CN",
+      "url": "https://github.com/online-books/free-programming-books-zh_CN",
+      "remark": "计算机编程类中文书籍"
+    },
+    {
+      "name": "awesome-programming-books",
+      "url": "https://github.com/online-books/awesome-programming-books",
+      "remark": "经典编程书籍大全"
+    },
+    {
+      "name": "free-books",
+      "url": "https://github.com/online-books/free-books",
+      "remark": "互联网上的免费书籍"
+    },
+    {
+      "name": "practical-programming-books",
+      "url": "https://github.com/online-books/practical-programming-books",
+      "remark": "计算机相关技术资料整理"
+    },
+    {
+      "name": "Weekly",
+      "url": "https://github.com/online-books/weekly",
+      "remark": "汇总的好文章"
+    },
+    {
+      "name": "technical-books",
+      "url": "https://github.com/online-books/technical-books",
+      "remark": "国内外互联网技术大牛们都写了哪些书籍"
+    },
+    {
+      "name": "build-your-own-x",
+      "url": "https://github.com/online-books/build-your-own-x",
+      "remark": "Build your own (insert technology here)"
+    }
+  ]
+}

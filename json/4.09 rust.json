@@ -1,0 +1,16 @@
+{
+  "name": "Rust",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 9,
+  "repo": [
+    {
+      "name": "The Rust Programming Language",
+      "url": "https://github.com/online-books/book"
+    },
+    {
+      "name": "Rust 程序设计语言",
+      "url": "https://github.com/online-books/trpl-zh-cn"
+    }
+  ]
+}

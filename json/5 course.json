@@ -1,0 +1,27 @@
+{
+  "name": "🖥 教 程",
+  "lever": 2,
+  "order": 5,
+  "repo": [
+    {
+      "name": "全栈工程师培训材料",
+      "url": "https://github.com/online-books/jstraining"
+    },
+    {
+      "name": "Learning Google V8",
+      "url": "https://github.com/online-books/learning-v8"
+    },
+    {
+      "name": "Pixi 教程",
+      "url": "https://github.com/online-books/LearningPixi"
+    },
+    {
+      "name": "GitHub 漫游指南",
+      "url": "https://github.com/online-books/github"
+    },
+    {
+      "name": "30 分钟入门",
+      "url": "https://github.com/online-books/30min_guides"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "IOS",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 12,
+  "repo": [
+    {
+      "name": "IOS 学习进程中遇到的知识点",
+      "url": "https://github.com/online-books/tips"
+    },
+    {
+      "name": "中文版 Apple 官方 Swift 教程",
+      "url": "https://github.com/online-books/the-swift-programming-language-in-chinese"
+    }
+  ]
+}

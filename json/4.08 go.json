@@ -1,0 +1,16 @@
+{
+  "name": "Go",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 8,
+  "repo": [
+    {
+      "name": "Go 入门指南",
+      "url": "https://github.com/online-books/the-way-to-go_ZH_CN"
+    },
+    {
+      "name": "玩转 Go",
+      "url": "https://github.com/online-books/Mastering_Go_ZH_CN"
+    }
+  ]
+}

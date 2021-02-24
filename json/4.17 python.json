@@ -1,0 +1,12 @@
+{
+  "name": "Python",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 17,
+  "repo": [
+    {
+      "name": "Python - 100天从新手到大师",
+      "url": "https://github.com/online-books/Python-100-Days"
+    }
+  ]
+}

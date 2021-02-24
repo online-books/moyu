@@ -1,0 +1,48 @@
+{
+  "name": "计算机",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 1,
+  "repo": [
+    {
+      "name": "动手学深度学习",
+      "url": "https://github.com/online-books/d2l-zh"
+    },
+    {
+      "name": "神经网络与深度学习",
+      "url": "https://github.com/online-books/nndl.github.io"
+    },
+    {
+      "name": "深度学习入门开源书",
+      "url": "https://github.com/online-books/Deep-Learning-with-TensorFlow-book"
+    },
+    {
+      "name": "软件设计的哲学",
+      "url": "https://github.com/online-books/A-Philosophy-of-Software-Design-zh"
+    },
+    {
+      "name": "密码学",
+      "url": "https://github.com/online-books/cryptography"
+    },
+    {
+      "name": "机器学习",
+      "url": "https://github.com/online-books/ML-NLP"
+    },
+    {
+      "name": "A hands-on introduction to video technology",
+      "url": "https://github.com/online-books/digital_video_introduction"
+    },
+    {
+      "name": "白帽子安全开发实战配套代码仓库",
+      "url": "https://github.com/online-books/sec-dev-in-action-src"
+    },
+    {
+      "name": "一个可以自己进行训练的中文聊天机器人",
+      "url": "https://github.com/online-books/chatbot"
+    },
+    {
+      "name": "HTTP API 设计指南",
+      "url": "https://github.com/online-books/http-api-design-ZH_CN"
+    }
+  ]
+}

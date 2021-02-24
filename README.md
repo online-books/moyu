@@ -1,151 +1,185 @@
 # 🐟 在线摸鱼减压
 
-这里收集了免费的书籍、文章、资料、教程。
+这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-随意点开，摸鱼减压。
+- 📆 : <kbd>2021-02-24</kbd>
+- 📊 : <kbd>102</kbd>
 
-- 📆 : **`2020-12-14`**
-- 📊 : **`67`**
+## 📒 合 集 <kbd>7</kbd>
 
-## 📒 合 集
+| 名称 | 备注 |
+| -- | -- |
+| [free-programming-books-zh_CN](https://github.com/online-books/free-programming-books-zh_CN) | 计算机编程类中文书籍 |
+| [awesome-programming-books](https://github.com/online-books/awesome-programming-books) | 经典编程书籍大全 |
+| [free-books](https://github.com/online-books/free-books) | 互联网上的免费书籍 |
+| [practical-programming-books](https://github.com/online-books/practical-programming-books) | 计算机相关技术资料整理 |
+| [Weekly](https://github.com/online-books/weekly) | 汇总的好文章 |
+| [technical-books](https://github.com/online-books/technical-books) | 国内外互联网技术大牛们都写了哪些书籍 |
+| [build-your-own-x](https://github.com/online-books/build-your-own-x) | Build your own (insert technology here) |
 
-| #️⃣   | 名称                                  | 备注                   |
-| --- | ------------------------------------- | ---------------------- |
-| 1   | [free-programming-books-zh_CN][all01] | 计算机编程类中文书籍   |
-| 2   | [awesome-programming-books][all02]    | 经典编程书籍大全       |
-| 3   | [free-books][all03]                   | 互联网上的免费书籍     |
-| 4   | [practical-programming-books][all04]  | 计算机相关技术资料整理 |
-| 5   | [Weekly][all05]                       | 汇总的好文章           |
+## 🗂 资 料 <kbd>20</kbd>
 
-## 🗂 资 料
+| 名称 | 备注 |
+| -- | -- |
+| [awesome-home-networking-cn](https://github.com/online-books/awesome-home-networking-cn) | 家庭网络知识整理 |
+| [CognitiveInference](https://github.com/online-books/CognitiveInference) | 认知推理 |
+| [REKCARC-TSC-UHT](https://github.com/online-books/REKCARC-TSC-UHT) | 清华大学计算机系课程攻略 |
+| [VS-Code-Extension-Doc-ZH](https://github.com/online-books/VS-Code-Extension-Doc-ZH) | VS Code 插件开发文档 |
+| [awesome-lowcode](https://github.com/online-books/awesome-lowcode) | 国内低代码平台从业者交流 |
+| [hacker-laws-zh](https://github.com/online-books/hacker-laws-zh) | 程序员定律 |
+| [FEDiagram](https://github.com/online-books/FEDiagram) | 各种前端技术图谱 |
+| [remote-working](https://github.com/online-books/remote-working) | 中国远程工作资料大全 |
+| [shanghai_house_knowledge](https://github.com/online-books/shanghai_house_knowledge) | 2020上海买房 |
+| [hangzhou_house_knowledge](https://github.com/online-books/hangzhou_house_knowledge) | 2017杭州买房 |
+| [14th](https://github.com/online-books/14th) | 第十四届D2前端技术论坛「创心」 |
+| [developer-roadmap](https://github.com/online-books/developer-roadmap) | Roadmap to becoming a web developer in 2021 |
+| [coder2gwy](https://github.com/online-books/coder2gwy) | 互联网首份程序员考公指南 |
+| [document-style-guide](https://github.com/online-books/document-style-guide) | 中文技术文档的写作规范 |
+| [system-design-primer](https://github.com/online-books/system-design-primer) | Learn how to design large-scale systems. |
+| [ChatBotCourse](https://github.com/online-books/ChatBotCourse) | 自己动手做聊天机器人教程 |
+| [beijing_house_knowledge](https://github.com/online-books/beijing_house_knowledge) | 北京买房攻略 |
+| [howto-make-more-money](https://github.com/online-books/howto-make-more-money) | 程序员如何优雅的挣零花钱 |
+| [introRL](https://github.com/online-books/introRL) | 强化学习纲要 |
+| [live-video-study-notes](https://github.com/online-books/live-video-study-notes) | 整理前端视频直播相关技术的笔记 |
 
-| #️⃣   | 名称                               | 备注                           |
-| --- | ---------------------------------- | ------------------------------ |
-| 1   | [awesome-home-networking-cn][zl01] | 家庭网络知识整理               |
-| 2   | [CognitiveInference][zl02]         | 认知推理                       |
-| 3   | [REKCARC-TSC-UHT][zl03]            | 清华大学计算机系课程攻略       |
-| 4   | [VS-Code-Extension-Doc-ZH][zl04]   | VS Code 插件开发文档           |
-| 5   | xx                                 | xx                             |
-| 6   | xx                                 | xx                             |
-| 7   | [awesome-lowcode][zl07]            | 国内低代码平台从业者交流       |
-| 8   | [hacker-laws-zh][zl08]             | 程序员定律                     |
-| 9   | [FEDiagram][zl09]                  | 各种前端技术图谱               |
-| 10  | [remote-working][zl10]             | 中国远程工作资料大全           |
-| 11  | [shanghai_house_knowledge][zl11]   | 2020上海买房                   |
-| 12  | [hangzhou_house_knowledge][zl12]   | 2017杭州买房                   |
-| 13  | [14th][zl13]                       | 第十四届D2前端技术论坛「创心」 |
+## 🤺 面 试 <kbd>7</kbd>
 
-## 🤺 面 试
-
-| #️⃣   | 名称                                 | 备注                       |
-| --- | ------------------------------------ | -------------------------- |
-| 1   | [CS-Notes][ms01]                     | 技术面试必备               |
-| 2   | [CS-Interview-Knowledge-Map][ms02]   | 面试图谱                   |
-| 3   | [frontend-hard-mode-interview][ms03] | 前端内参                   |
-| 4   | [reverse-interview-zh][ms04]         | 技术面试最后反问面试官的话 |
+| 名称 | 备注 |
+| -- | -- |
+| [CS-Notes](https://github.com/online-books/CS-Notes) | 技术面试必备 |
+| [CS-Interview-Knowledge-Map](https://github.com/online-books/CS-Interview-Knowledge-Map) | 面试图谱 |
+| [frontend-hard-mode-interview](https://github.com/online-books/frontend-hard-mode-interview) | 前端内参 |
+| [reverse-interview-zh](https://github.com/online-books/reverse-interview-zh) | 技术面试最后反问面试官的话 |
+| [interview](https://github.com/online-books/interview) | C/C++ 技术面试基础知识总结 |
+| [Front-End-Interview](https://github.com/online-books/Front-End-Interview) | 前端面试相关的面试知识 |
+| [fe-interview](https://github.com/online-books/fe-interview) | 前端面试每日 3+1 |
 
 ## 📃 知 识
 
-### 计算机
+### 计算机 <kbd>10</kbd>
 
-1. [动手学深度学习][com01]
-2. [神经网络与深度学习][com02]
-3. [深度学习入门开源书][com03]
-4. [软件设计的哲学][com04]
-5. [密码学][com05]
-6. [机器学习][com06]
+- [动手学深度学习](https://github.com/online-books/d2l-zh)
+- [神经网络与深度学习](https://github.com/online-books/nndl.github.io)
+- [深度学习入门开源书](https://github.com/online-books/Deep-Learning-with-TensorFlow-book)
+- [软件设计的哲学](https://github.com/online-books/A-Philosophy-of-Software-Design-zh)
+- [密码学](https://github.com/online-books/cryptography)
+- [机器学习](https://github.com/online-books/ML-NLP)
+- [A hands-on introduction to video technology](https://github.com/online-books/digital_video_introduction)
+- [白帽子安全开发实战配套代码仓库](https://github.com/online-books/sec-dev-in-action-src)
+- [一个可以自己进行训练的中文聊天机器人](https://github.com/online-books/chatbot)
+- [HTTP API 设计指南](https://github.com/online-books/http-api-design-ZH_CN)
 
-### JavaScript
+### JavaScript <kbd>8</kbd>
 
-1. [你不知道的 JavaScript][js01]
-2. [JavaScript 20 年史][js02]
-3. [javascript-testing-best-practices][js03]
-4. [Airbnb JavaScript Style Guide][js04]
-5. [ECMAScript 6入门][js05]
-6. [Understanding ECMAScript 6][js06]
+- [你不知道的 JavaScript](https://github.com/online-books/You-Dont-Know-JS)
+- [JavaScript 20 年史](https://github.com/online-books/jshistory-cn)
+- [javascript-testing-best-practices](https://github.com/online-books/javascript-testing-best-practices)
+- [Airbnb JavaScript Style Guide](https://github.com/online-books/javascript-style-guide)
+- [ECMAScript 6入门](https://github.com/online-books/es6tutorial)
+- [Understanding ECMAScript 6](https://github.com/online-books/understandinges6)
+- [JavaScript 教程](https://github.com/online-books/javascript-tutorial)
+- [JavaScript Guidebook](https://github.com/online-books/javascript-guidebook)
 
-### TypeScript
+### TypeScript <kbd>3</kbd>
 
-1. [TypeScript 使用手册][ts01]
+- [TypeScript 使用手册](https://github.com/online-books/TypeScript)
+- [TypeScript 入门教程](https://github.com/online-books/typescript-tutorial)
+- [The definitive guide to TypeScript](https://github.com/online-books/typescript-book)
 
-### Node.js
+### Node.js <kbd>2</kbd>
 
-1. [Node.js 包教不包会][node01]
-2. [如何正确的学习 Node.js][node02]
+- [Node.js 包教不包会](https://github.com/online-books/node-lessons)
+- [如何正确的学习 Node.js](https://github.com/online-books/How-to-learn-node-correctly)
 
-### Vue
+### Vue <kbd>1</kbd>
 
-1. [Vue.js 源码分析][vue01]
+- [Vue.js 源码分析](https://github.com/online-books/learnVue)
 
-### React
+### React <kbd>4</kbd>
 
-1. [React 技术揭秘][react01]
-2. [图解 react 原理][react02]
+- [React 技术揭秘](https://github.com/online-books/just-react)
+- [图解 react 原理](https://github.com/online-books/react-illustration-series)
+- [kkb-react](https://github.com/online-books/kkb-react)
+- [React Native 学习资源精选仓库](https://github.com/online-books/react-native-awesome)
 
-### Angular
+### Angular <kbd>1</kbd>
 
-1. [100-days-of-angular][ang01]
+- [100-days-of-angular](https://github.com/online-books/100-days-of-angular)
 
-### Go
+### Go <kbd>2</kbd>
 
-1. [Go 入门指南][go01]
-2. [玩转 Go][go02]
+- [Go 入门指南](https://github.com/online-books/the-way-to-go_ZH_CN)
+- [玩转 Go](https://github.com/online-books/Mastering_Go_ZH_CN)
 
-### Rust
+### Rust <kbd>2</kbd>
 
-1. [The Rust Programming Language][rust01]
+- [The Rust Programming Language](https://github.com/online-books/book)
+- [Rust 程序设计语言](https://github.com/online-books/trpl-zh-cn)
 
-### CSS
+### CSS <kbd>2</kbd>
 
-1. [CSS 揭秘][css01]
-2. [CSS tricks][css02]
+- [CSS 揭秘](https://github.com/online-books/CSS-Secrets)
+- [CSS tricks](https://github.com/online-books/You-need-to-know-css)
 
-### Nginx
+### Nginx <kbd>1</kbd>
 
-1. [Nginx 开发从入门到精通][ngx01]
+- [Nginx 开发从入门到精通](https://github.com/online-books/nginx-book)
 
-### IOS
+### IOS <kbd>2</kbd>
 
-1. [iOS 学习进程中遇到的知识点][ios01]
+- [IOS 学习进程中遇到的知识点](https://github.com/online-books/tips)
+- [中文版 Apple 官方 Swift 教程](https://github.com/online-books/the-swift-programming-language-in-chinese)
 
-### 小程序
+### 小程序 <kbd>3</kbd>
 
-1. [微信小程序教程库][xcx01]
-2. [微信小程序开发资源汇总][xcx02]
-3. [关于小程序文章和项目][xcx03]
+- [微信小程序教程库](https://github.com/online-books/wechat-miniprogram-demos)
+- [微信小程序开发资源汇总](https://github.com/online-books/awesome-wechat-weapp)
+- [关于小程序文章和项目](https://github.com/online-books/TNT-Weekly)
 
-### 文学
+### 文学 <kbd>2</kbd>
 
-1. [毛泽东选集][wx01]
-2. [乾隆大藏经][wx02]
+- [毛泽东选集](https://github.com/online-books/MaoZeDongAnthology)
+- [乾隆大藏经](https://github.com/online-books/BuddhistScriptures2)
 
-### 英语
+### 英语 <kbd>2</kbd>
 
-1. [程序员工作中常见的英语词汇][yy01]
-2. [专为程序员编写的英语学习指南][yy02]
+- [程序员工作中常见的英语词汇](https://github.com/online-books/most-frequent-technology-english-words)
+- [专为程序员编写的英语学习指南](https://github.com/online-books/A-Programmers-Guide-to-English)
 
-### 算法
+### 算法 <kbd>4</kbd>
 
-1. [algorithm][sf01]
-2. [hello-algorithm][sf02] 
-3. [Reflection_Summary][sf03]
+- [algorithm](https://github.com/online-books/fucking-algorithm)
+- [hello-algorithm](https://github.com/online-books/hello-algorithm)
+- [Reflection_Summary](https://github.com/online-books/Reflection_Summary)
+- [Algorithms and data structures implemented in JavaScript](https://github.com/online-books/javascript-algorithms)
 
-## 🖥 教 程
+### Python <kbd>1</kbd>
 
-1. [全栈工程师培训材料][jc01]
-2. [Learning Google V8][jc02]
-3. [Pixi 教程][jc03]
-4. [GitHub 漫游指南][jc04]
-5. [30 分钟入门][jc05]
+- [Python - 100天从新手到大师](https://github.com/online-books/Python-100-Days)
 
-## 📖 文 章
+## 🖥 教 程 <kbd>5</kbd>
 
-1. [Web 端口敲门的奇思妙想][wz01]
-2. [今天，你逃避了么？][wz02]
-3. [若川的博客—前端视野][wz03]
-4. [前端精读周刊][wz04]
-5. [蚂蚁数据体验技术团队的文章仓库][wz05]
-6. [记录成长的过程][wz06]
+- [全栈工程师培训材料](https://github.com/online-books/jstraining)
+- [Learning Google V8](https://github.com/online-books/learning-v8)
+- [Pixi 教程](https://github.com/online-books/LearningPixi)
+- [GitHub 漫游指南](https://github.com/online-books/github)
+- [30 分钟入门](https://github.com/online-books/30min_guides)
+
+## 📖 文 章 <kbd>13</kbd>
+
+- [Web 端口敲门的奇思妙想](https://github.com/online-books/js-port-knocking)
+- [yihong0618 blog](https://github.com/online-books/gitblog)
+- [若川的博客—前端视野](https://github.com/online-books/lxchuan12-blog)
+- [前端精读周刊](https://github.com/online-books/dt-fe-weekly)
+- [蚂蚁数据体验技术团队的文章仓库](https://github.com/online-books/ProtoTeam-blog)
+- [记录成长的过程](https://github.com/online-books/Blog)
+- [野生前端码农的内功修炼和自我修养](https://github.com/online-books/blogs)
+- [RSS 抓取最新前端技术文章](https://github.com/online-books/front-end-rss)
+- [Write and record some thought daily](https://github.com/online-books/MuYunyun-blog)
+- [我在拼多多的三年](https://github.com/online-books/pdd_3years)
+- [冴羽写博客的地方](https://github.com/online-books/mqyqingfeng-Blog)
+- [前端小智](https://github.com/online-books/xiaozhi)
+- [前端入门到进阶图文教程](https://github.com/online-books/Web)
 
 ## 🆕 新 增
 
@@ -153,99 +187,9 @@
 
 ## 💭 说 明
 
-- 资源均来自互联网。
-- 若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/moyu/issues)。
+- 资源均来自互联网
+- 若您有任何建议、疑问，请点击这里 [Issue](https://github.com/online-books/moyu/issues)
 
-<!-- 合集 -->
-[all01]:https://github.com/online-books/free-programming-books-zh_CN
-[all02]:https://github.com/online-books/awesome-programming-books
-[all03]:https://github.com/online-books/free-books
-[all04]:https://github.com/online-books/practical-programming-books
-[all05]:https://github.com/online-books/weekly
+## LICENSE
 
-<!-- 资料 --> 
-[zl01]:https://github.com/online-books/awesome-home-networking-cn
-[zl02]:https://github.com/online-books/CognitiveInference
-[zl03]:https://github.com/online-books/REKCARC-TSC-UHT
-[zl04]:https://github.com/online-books/VS-Code-Extension-Doc-ZH
-[zl07]:https://github.com/online-books/awesome-lowcode
-[zl08]:https://github.com/online-books/hacker-laws-zh
-[zl09]:https://github.com/online-books/FEDiagram
-[zl10]:https://github.com/online-books/remote-working
-[zl11]:https://github.com/online-books/shanghai_house_knowledge
-[zl12]:https://github.com/online-books/hangzhou_house_knowledge
-[zl13]:https://github.com/online-books/14th
-
-<!-- 面试 -->
-[ms01]:https://github.com/online-books/CS-Notes
-[ms02]:https://github.com/online-books/CS-Interview-Knowledge-Map
-[ms03]:https://github.com/online-books/frontend-hard-mode-interview
-[ms04]:https://github.com/online-books/reverse-interview-zh
-
-<!-- 书籍 -->
-[com01]:https://github.com/online-books/d2l-zh
-[com02]:https://github.com/online-books/nndl.github.io
-[com03]:https://github.com/online-books/Deep-Learning-with-TensorFlow-book
-[com04]:https://github.com/online-books/A-Philosophy-of-Software-Design-zh
-[com05]:https://github.com/online-books/cryptography
-[com06]:https://github.com/online-books/ML-NLP
-
-[js01]:https://github.com/online-books/You-Dont-Know-JS
-[js02]:https://github.com/online-books/jshistory-cn
-[js03]:https://github.com/online-books/javascript-testing-best-practices
-[js04]:https://github.com/online-books/javascript-style-guide
-[js05]:https://github.com/online-books/es6tutorial
-[js06]:https://github.com/online-books/understandinges6
-
-[ts01]:https://github.com/online-books/TypeScript
-
-[node01]:https://github.com/online-books/node-lessons
-[node02]:https://github.com/online-books/How-to-learn-node-correctly
-
-[go01]:https://github.com/online-books/the-way-to-go_ZH_CN
-[go02]:https://github.com/online-books/Mastering_Go_ZH_CN
-
-[ngx01]:https://github.com/online-books/nginx-book
-
-[vue01]:https://github.com/online-books/learnVue
-
-[react01]:https://github.com/online-books/just-react
-[react02]:https://github.com/online-books/react-illustration-series
-
-[ang01]:https://github.com/online-books/100-days-of-angular
-
-[rust01]:https://github.com/online-books/book
-
-[css01]:https://github.com/online-books/CSS-Secrets
-[css02]:https://github.com/online-books/You-need-to-know-css
-
-[ios01]:https://github.com/online-books/tips
-
-[xcx01]:https://github.com/online-books/wechat-miniprogram-demos
-[xcx02]:https://github.com/online-books/awesome-wechat-weapp
-[xcx03]:https://github.com/online-books/TNT-Weekly
-
-[wx01]:https://github.com/online-books/MaoZeDongAnthology
-[wx02]:https://github.com/online-books/BuddhistScriptures2
-
-[yy01]:https://github.com/online-books/most-frequent-technology-english-words
-[yy02]:https://github.com/online-books/A-Programmers-Guide-to-English
-
-[sf01]:https://github.com/online-books/fucking-algorithm
-[sf02]:https://github.com/online-books/hello-algorithm
-[sf03]:https://github.com/online-books/Reflection_Summary
-
-<!-- 教程 -->
-[jc01]:https://github.com/online-books/jstraining
-[jc02]:https://github.com/online-books/learning-v8
-[jc03]:https://github.com/online-books/LearningPixi
-[jc04]:https://github.com/online-books/github
-[jc05]:https://github.com/online-books/30min_guides
-
-<!-- 文章 -->
-[wz01]:https://github.com/online-books/js-port-knocking
-[wz02]:https://github.com/online-books/gitblog
-[wz03]:https://github.com/online-books/blog-1
-[wz04]:https://github.com/online-books/weekly-1
-[wz05]:https://github.com/online-books/blog-2
-[wz06]:https://github.com/online-books/Blog
+[MIT](./LICENSE)

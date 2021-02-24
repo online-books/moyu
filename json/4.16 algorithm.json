@@ -1,0 +1,24 @@
+{
+  "name": "算法",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 16,
+  "repo": [
+    {
+      "name": "algorithm",
+      "url": "https://github.com/online-books/fucking-algorithm"
+    },
+    {
+      "name": "hello-algorithm",
+      "url": "https://github.com/online-books/hello-algorithm"
+    },
+    {
+      "name": "Reflection_Summary",
+      "url": "https://github.com/online-books/Reflection_Summary"
+    },
+    {
+      "name": "Algorithms and data structures implemented in JavaScript",
+      "url": "https://github.com/online-books/javascript-algorithms"
+    }
+  ]
+}

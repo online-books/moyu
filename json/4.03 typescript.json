@@ -1,0 +1,20 @@
+{
+  "name": "TypeScript",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 3,
+  "repo": [
+    {
+      "name": "TypeScript 使用手册",
+      "url": "https://github.com/online-books/TypeScript"
+    },
+    {
+      "name": "TypeScript 入门教程",
+      "url": "https://github.com/online-books/typescript-tutorial"
+    },
+    {
+      "name": "The definitive guide to TypeScript",
+      "url": "https://github.com/online-books/typescript-book"
+    }
+  ]
+}

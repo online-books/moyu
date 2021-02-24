@@ -1,0 +1,16 @@
+{
+  "name": "CSS",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 10,
+  "repo": [
+    {
+      "name": "CSS 揭秘",
+      "url": "https://github.com/online-books/CSS-Secrets"
+    },
+    {
+      "name": "CSS tricks",
+      "url": "https://github.com/online-books/You-need-to-know-css"
+    }
+  ]
+}

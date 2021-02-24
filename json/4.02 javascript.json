@@ -1,0 +1,40 @@
+{
+  "name": "JavaScript",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 2,
+  "repo": [
+    {
+      "name": "你不知道的 JavaScript",
+      "url": "https://github.com/online-books/You-Dont-Know-JS"
+    },
+    {
+      "name": "JavaScript 20 年史",
+      "url": "https://github.com/online-books/jshistory-cn"
+    },
+    {
+      "name": "javascript-testing-best-practices",
+      "url": "https://github.com/online-books/javascript-testing-best-practices"
+    },
+    {
+      "name": "Airbnb JavaScript Style Guide",
+      "url": "https://github.com/online-books/javascript-style-guide"
+    },
+    {
+      "name": "ECMAScript 6入门",
+      "url": "https://github.com/online-books/es6tutorial"
+    },
+    {
+      "name": "Understanding ECMAScript 6",
+      "url": "https://github.com/online-books/understandinges6"
+    },
+    {
+      "name": "JavaScript 教程",
+      "url": "https://github.com/online-books/javascript-tutorial"
+    },
+    {
+      "name": "JavaScript Guidebook",
+      "url": "https://github.com/online-books/javascript-guidebook"
+    }
+  ]
+}

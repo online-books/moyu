@@ -1,0 +1,16 @@
+{
+  "name": "英语",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 15,
+  "repo": [
+    {
+      "name": "程序员工作中常见的英语词汇",
+      "url": "https://github.com/online-books/most-frequent-technology-english-words"
+    },
+    {
+      "name": "专为程序员编写的英语学习指南",
+      "url": "https://github.com/online-books/A-Programmers-Guide-to-English"
+    }
+  ]
+}

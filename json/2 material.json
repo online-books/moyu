@@ -1,0 +1,107 @@
+{
+  "name": "🗂 资 料",
+  "lever": 2,
+  "order": 2,
+  "repo": [
+    {
+      "name": "awesome-home-networking-cn",
+      "url": "https://github.com/online-books/awesome-home-networking-cn",
+      "remark": "家庭网络知识整理"
+    },
+    {
+      "name": "CognitiveInference",
+      "url": "https://github.com/online-books/CognitiveInference",
+      "remark": "认知推理"
+    },
+    {
+      "name": "REKCARC-TSC-UHT",
+      "url": "https://github.com/online-books/REKCARC-TSC-UHT",
+      "remark": "清华大学计算机系课程攻略"
+    },
+    {
+      "name": "VS-Code-Extension-Doc-ZH",
+      "url": "https://github.com/online-books/VS-Code-Extension-Doc-ZH",
+      "remark": "VS Code 插件开发文档"
+    },
+    {
+      "name": "awesome-lowcode",
+      "url": "https://github.com/online-books/awesome-lowcode",
+      "remark": "国内低代码平台从业者交流"
+    },
+    {
+      "name": "hacker-laws-zh",
+      "url": "https://github.com/online-books/hacker-laws-zh",
+      "remark": "程序员定律"
+    },
+    {
+      "name": "FEDiagram",
+      "url": "https://github.com/online-books/FEDiagram",
+      "remark": "各种前端技术图谱"
+    },
+    {
+      "name": "remote-working",
+      "url": "https://github.com/online-books/remote-working",
+      "remark": "中国远程工作资料大全"
+    },
+    {
+      "name": "shanghai_house_knowledge",
+      "url": "https://github.com/online-books/shanghai_house_knowledge",
+      "remark": "2020上海买房"
+    },
+    {
+      "name": "hangzhou_house_knowledge",
+      "url": "https://github.com/online-books/hangzhou_house_knowledge",
+      "remark": "2017杭州买房"
+    },
+    {
+      "name": "14th",
+      "url": "https://github.com/online-books/14th",
+      "remark": "第十四届D2前端技术论坛「创心」"
+    },
+    {
+      "name": "developer-roadmap",
+      "url": "https://github.com/online-books/developer-roadmap",
+      "remark": "Roadmap to becoming a web developer in 2021"
+    },
+    {
+      "name": "coder2gwy",
+      "url": "https://github.com/online-books/coder2gwy",
+      "remark": "互联网首份程序员考公指南"
+    },
+    {
+      "name": "document-style-guide",
+      "url": "https://github.com/online-books/document-style-guide",
+      "remark": "中文技术文档的写作规范"
+    },
+    {
+      "name": "system-design-primer",
+      "url": "https://github.com/online-books/system-design-primer",
+      "remark": "Learn how to design large-scale systems."
+    },
+    {
+      "name": "ChatBotCourse",
+      "url": "https://github.com/online-books/ChatBotCourse",
+      "remark": "自己动手做聊天机器人教程"
+    },
+    {
+      "name": "beijing_house_knowledge",
+      "url": "https://github.com/online-books/beijing_house_knowledge",
+      "remark": "北京买房攻略"
+    },
+    {
+      "name": "howto-make-more-money",
+      "url": "https://github.com/online-books/howto-make-more-money",
+      "remark": "程序员如何优雅的挣零花钱"
+    },
+    {
+      "name": "introRL",
+      "url": "https://github.com/online-books/introRL",
+      "remark": "强化学习纲要"
+    },
+    {
+      "name": "live-video-study-notes",
+      "url": "https://github.com/online-books/live-video-study-notes",
+      "remark": "整理前端视频直播相关技术的笔记"
+    }
+  ]
+}

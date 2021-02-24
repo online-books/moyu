@@ -1,0 +1,12 @@
+{
+  "name": "Vue",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 5,
+  "repo": [
+    {
+      "name": "Vue.js 源码分析",
+      "url": "https://github.com/online-books/learnVue"
+    }
+  ]
+}

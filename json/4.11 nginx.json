@@ -1,0 +1,12 @@
+{
+  "name": "Nginx",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 11,
+  "repo": [
+    {
+      "name": "Nginx 开发从入门到精通",
+      "url": "https://github.com/online-books/nginx-book"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "小程序",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 13,
+  "repo": [
+    {
+      "name": "微信小程序教程库",
+      "url": "https://github.com/online-books/wechat-miniprogram-demos"
+    },
+    {
+      "name": "微信小程序开发资源汇总",
+      "url": "https://github.com/online-books/awesome-wechat-weapp"
+    },
+    {
+      "name": "关于小程序文章和项目",
+      "url": "https://github.com/online-books/TNT-Weekly"
+    }
+  ]
+}

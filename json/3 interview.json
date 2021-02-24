@@ -1,0 +1,42 @@
+{
+  "name": "🤺 面 试",
+  "lever": 2,
+  "order": 3,
+  "repo": [
+    {
+      "name": "CS-Notes",
+      "url": "https://github.com/online-books/CS-Notes",
+      "remark": "技术面试必备"
+    },
+    {
+      "name": "CS-Interview-Knowledge-Map",
+      "url": "https://github.com/online-books/CS-Interview-Knowledge-Map",
+      "remark": "面试图谱"
+    },
+    {
+      "name": "frontend-hard-mode-interview",
+      "url": "https://github.com/online-books/frontend-hard-mode-interview",
+      "remark": "前端内参"
+    },
+    {
+      "name": "reverse-interview-zh",
+      "url": "https://github.com/online-books/reverse-interview-zh",
+      "remark": "技术面试最后反问面试官的话"
+    },
+    {
+      "name": "interview",
+      "url": "https://github.com/online-books/interview",
+      "remark": "C/C++ 技术面试基础知识总结"
+    },
+    {
+      "name": "Front-End-Interview",
+      "url": "https://github.com/online-books/Front-End-Interview",
+      "remark": "前端面试相关的面试知识"
+    },
+    {
+      "name": "fe-interview",
+      "url": "https://github.com/online-books/fe-interview",
+      "remark": "前端面试每日 3+1"
+    }
+  ]
+}

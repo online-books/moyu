@@ -1,0 +1,24 @@
+{
+  "name": "React",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 6,
+  "repo": [
+    {
+      "name": "React 技术揭秘",
+      "url": "https://github.com/online-books/just-react"
+    },
+    {
+      "name": "图解 react 原理",
+      "url": "https://github.com/online-books/react-illustration-series"
+    },
+    {
+      "name": "kkb-react",
+      "url": "https://github.com/online-books/kkb-react"
+    },
+    {
+      "name": "React Native 学习资源精选仓库",
+      "url": "https://github.com/online-books/react-native-awesome"
+    }
+  ]
+}
