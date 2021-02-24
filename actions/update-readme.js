@@ -3,7 +3,7 @@
  */
 const fs = require('fs');
 const glob = require('glob');
-const { BEFORE, TABLE, AFTER, getDate } = require('./readme');
+const { BEFORE, TABLE, AFTER, getDate } = require('./util');
 
 console.time('Update-README');
 const paths = glob.sync('./json/*.json');
