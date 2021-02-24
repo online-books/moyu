@@ -1,0 +1,17 @@
+name: Check Fork
+
+on:
+  schedule:
+    - cron: "0 0 */6 * *"
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - name: Install
+        run: yarn
+      - name: Check
+        run: yarn check-fork
+        env:
+          token: ${{ secrets.GITHUB_TOKEN }}
