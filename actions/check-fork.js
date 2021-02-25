@@ -60,7 +60,7 @@ async function main() {
       await octokit.issues.create({
         owner: 'online-books',
         repo: 'moyu',
-        title: `[Fork 检查][${getDate()}][数量：${noSyncs.length}]`,
+        title: `[Fork 未录入检查][${getDate()}][数量：${noSyncs.length}]`,
         labels: ['Remind'],
         body,
       });
