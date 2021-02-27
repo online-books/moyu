@@ -15,11 +15,14 @@ const {
 
 const octokit = new Octokit({ auth: `token ${token}` });
 
+const owner = 'online-books';
+const repo = 'moyu';
+
 async function main() {
   try {
     async function queryRepos(page = 1) {
       let { data: repos } = await octokit.repos.listForOrg({
-        org: 'online-books',
+        org: owner,
         type: 'forks',
         per_page: 100,
         page,
@@ -57,9 +60,31 @@ async function main() {
 `;
       })
 
+      const { data: issues } = await octokit.issues.list({
+        owner,
+        repo,
+        state: 'open',
+        labels: 'Remind'
+      });
+
+      let beforeNum = '';
+      if (issues.length == 1) {
+        beforeNum = issues[0].number;
+        body += `
+
+👾 Close invalid issue: #${beforeNum}`
+
+        await octokit.issues.update({
+          owner,
+          repo,
+          issue_number: beforeNum,
+          state: 'closed',
+        })
+      }
+
       await octokit.issues.create({
-        owner: 'online-books',
-        repo: 'moyu',
+        owner,
+        repo,
         title: `[Fork 未录入检查][${getDate()}][数量：${noSyncs.length}]`,
         labels: ['Remind'],
         body,
