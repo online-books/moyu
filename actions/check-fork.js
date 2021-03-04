@@ -64,12 +64,11 @@ async function main() {
         owner,
         repo,
         state: 'open',
-        labels: 'Remind'
+        labels: ['Remind'],
       });
 
-      let beforeNum = '';
       if (issues.length == 1) {
-        beforeNum = issues[0].number;
+        const beforeNum = issues[0].number;
         body += `
 
 👾 Close invalid issue: #${beforeNum}`
