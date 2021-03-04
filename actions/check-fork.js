@@ -60,11 +60,11 @@ async function main() {
 `;
       })
 
-      const { data: issues } = await octokit.issues.list({
+      const { data: issues } = await octokit.issues.listForRepo({
         owner,
         repo,
         state: 'open',
-        labels: ['Remind'],
+        labels: 'Remind',
       });
 
       if (issues.length == 1) {
