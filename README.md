@@ -2,10 +2,10 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-02-24</kbd>
-- 📊 : <kbd>102</kbd>
+- 📆 : <kbd>2021-03-18</kbd>
+- 📊 : <kbd>118</kbd>
 
-## 📒 合 集 <kbd>7</kbd>
+## 📒 合 集 <kbd>8</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -16,8 +16,9 @@
 | [Weekly](https://github.com/online-books/weekly) | 汇总的好文章 |
 | [technical-books](https://github.com/online-books/technical-books) | 国内外互联网技术大牛们都写了哪些书籍 |
 | [build-your-own-x](https://github.com/online-books/build-your-own-x) | Build your own (insert technology here) |
+| [awesome-learning-resources](https://github.com/online-books/awesome-learning-resources) | 收集最优质的学习资料 |
 
-## 🗂 资 料 <kbd>20</kbd>
+## 🗂 资 料 <kbd>22</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -41,8 +42,10 @@
 | [howto-make-more-money](https://github.com/online-books/howto-make-more-money) | 程序员如何优雅的挣零花钱 |
 | [introRL](https://github.com/online-books/introRL) | 强化学习纲要 |
 | [live-video-study-notes](https://github.com/online-books/live-video-study-notes) | 整理前端视频直播相关技术的笔记 |
+| [awesome-a11y-cn](https://github.com/online-books/awesome-a11y-cn) | 无障碍知识库 |
+| [risk-management-note](https://github.com/online-books/risk-management-note) | 风险控制笔记  |
 
-## 🤺 面 试 <kbd>7</kbd>
+## 🤺 面 试 <kbd>12</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -53,6 +56,40 @@
 | [interview](https://github.com/online-books/interview) | C/C++ 技术面试基础知识总结 |
 | [Front-End-Interview](https://github.com/online-books/Front-End-Interview) | 前端面试相关的面试知识 |
 | [fe-interview](https://github.com/online-books/fe-interview) | 前端面试每日 3+1 |
+| [Daily-Question](https://github.com/online-books/Daily-Question) | 日问 |
+| [Daily-Interview-Question](https://github.com/online-books/Daily-Interview-Question) | 每天搞定一道前端大厂面试题 |
+| [node-interview-questions](https://github.com/online-books/node-interview-questions) | Node.js面试题 |
+| [Front-End-Interview-Notebook](https://github.com/online-books/Front-End-Interview-Notebook) | 前端面试复习笔记 |
+| [React Interview Questions & Answers](https://github.com/online-books/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions & Answers |
+
+## 📖 文 章 <kbd>17</kbd>
+
+- [ssh-blogs](https://github.com/online-books/ssh-blogs)
+- [Web 端口敲门的奇思妙想](https://github.com/online-books/js-port-knocking)
+- [yihong0618 blog](https://github.com/online-books/gitblog)
+- [若川的博客—前端视野](https://github.com/online-books/lxchuan12-blog)
+- [前端精读周刊](https://github.com/online-books/dt-fe-weekly)
+- [蚂蚁数据体验技术团队的文章仓库](https://github.com/online-books/ProtoTeam-blog)
+- [记录成长的过程](https://github.com/online-books/Blog)
+- [野生前端码农的内功修炼和自我修养](https://github.com/online-books/blogs)
+- [RSS 抓取最新前端技术文章](https://github.com/online-books/front-end-rss)
+- [Write and record some thought daily](https://github.com/online-books/MuYunyun-blog)
+- [我在拼多多的三年](https://github.com/online-books/pdd_3years)
+- [冴羽写博客的地方](https://github.com/online-books/mqyqingfeng-Blog)
+- [前端小智](https://github.com/online-books/xiaozhi)
+- [前端入门到进阶图文教程](https://github.com/online-books/Web)
+- [Halfrost-Field 冰霜之地](https://github.com/online-books/Halfrost-Field)
+- [jsliang 的文档库](https://github.com/online-books/document-library)
+- [小狮子前端の学习](https://github.com/online-books/Front-end-learning-to-organize-notes)
+
+## 🖥 教 程 <kbd>6</kbd>
+
+- [全栈工程师培训材料](https://github.com/online-books/jstraining)
+- [Learning Google V8](https://github.com/online-books/learning-v8)
+- [Pixi 教程](https://github.com/online-books/LearningPixi)
+- [GitHub 漫游指南](https://github.com/online-books/github)
+- [30 分钟入门](https://github.com/online-books/30min_guides)
+- [How to use Babel and how to create plugins for Babel](https://github.com/online-books/babel-handbook)
 
 ## 📃 知 识
 
@@ -69,7 +106,7 @@
 - [一个可以自己进行训练的中文聊天机器人](https://github.com/online-books/chatbot)
 - [HTTP API 设计指南](https://github.com/online-books/http-api-design-ZH_CN)
 
-### JavaScript <kbd>8</kbd>
+### JavaScript <kbd>9</kbd>
 
 - [你不知道的 JavaScript](https://github.com/online-books/You-Dont-Know-JS)
 - [JavaScript 20 年史](https://github.com/online-books/jshistory-cn)
@@ -79,6 +116,7 @@
 - [Understanding ECMAScript 6](https://github.com/online-books/understandinges6)
 - [JavaScript 教程](https://github.com/online-books/javascript-tutorial)
 - [JavaScript Guidebook](https://github.com/online-books/javascript-guidebook)
+- [现代 JavaScript 教程中文版](https://github.com/online-books/zh.javascript.info)
 
 ### TypeScript <kbd>3</kbd>
 
@@ -146,40 +184,18 @@
 - [程序员工作中常见的英语词汇](https://github.com/online-books/most-frequent-technology-english-words)
 - [专为程序员编写的英语学习指南](https://github.com/online-books/A-Programmers-Guide-to-English)
 
-### 算法 <kbd>4</kbd>
+### 算法 <kbd>6</kbd>
 
 - [algorithm](https://github.com/online-books/fucking-algorithm)
 - [hello-algorithm](https://github.com/online-books/hello-algorithm)
 - [Reflection_Summary](https://github.com/online-books/Reflection_Summary)
 - [Algorithms and data structures implemented in JavaScript](https://github.com/online-books/javascript-algorithms)
+- [leetcode题解](https://github.com/online-books/leetcode)
+- [汇总各大互联网公司容易考察的高频leetcode题](https://github.com/online-books/LeetcodeTop)
 
 ### Python <kbd>1</kbd>
 
 - [Python - 100天从新手到大师](https://github.com/online-books/Python-100-Days)
-
-## 🖥 教 程 <kbd>5</kbd>
-
-- [全栈工程师培训材料](https://github.com/online-books/jstraining)
-- [Learning Google V8](https://github.com/online-books/learning-v8)
-- [Pixi 教程](https://github.com/online-books/LearningPixi)
-- [GitHub 漫游指南](https://github.com/online-books/github)
-- [30 分钟入门](https://github.com/online-books/30min_guides)
-
-## 📖 文 章 <kbd>13</kbd>
-
-- [Web 端口敲门的奇思妙想](https://github.com/online-books/js-port-knocking)
-- [yihong0618 blog](https://github.com/online-books/gitblog)
-- [若川的博客—前端视野](https://github.com/online-books/lxchuan12-blog)
-- [前端精读周刊](https://github.com/online-books/dt-fe-weekly)
-- [蚂蚁数据体验技术团队的文章仓库](https://github.com/online-books/ProtoTeam-blog)
-- [记录成长的过程](https://github.com/online-books/Blog)
-- [野生前端码农的内功修炼和自我修养](https://github.com/online-books/blogs)
-- [RSS 抓取最新前端技术文章](https://github.com/online-books/front-end-rss)
-- [Write and record some thought daily](https://github.com/online-books/MuYunyun-blog)
-- [我在拼多多的三年](https://github.com/online-books/pdd_3years)
-- [冴羽写博客的地方](https://github.com/online-books/mqyqingfeng-Blog)
-- [前端小智](https://github.com/online-books/xiaozhi)
-- [前端入门到进阶图文教程](https://github.com/online-books/Web)
 
 ## 🆕 新 增
 

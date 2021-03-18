@@ -37,6 +37,11 @@
       "name": "build-your-own-x",
       "url": "https://github.com/online-books/build-your-own-x",
       "remark": "Build your own (insert technology here)"
+    },
+    {
+      "name": "awesome-learning-resources",
+      "url": "https://github.com/online-books/awesome-learning-resources",
+      "remark": "收集最优质的学习资料"
     }
   ]
 }

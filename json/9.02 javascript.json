@@ -35,6 +35,10 @@
     {
       "name": "JavaScript Guidebook",
       "url": "https://github.com/online-books/javascript-guidebook"
+    },
+    {
+      "name": "现代 JavaScript 教程中文版",
+      "url": "https://github.com/online-books/zh.javascript.info"
     }
   ]
 }

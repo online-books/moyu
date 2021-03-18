@@ -1,8 +1,12 @@
 {
   "name": "📖 文 章",
   "lever": 2,
-  "order": 6,
+  "order": 4,
   "repo": [
+    {
+      "name": "ssh-blogs",
+      "url": "https://github.com/online-books/ssh-blogs"
+    },
     {
       "name": "Web 端口敲门的奇思妙想",
       "url": "https://github.com/online-books/js-port-knocking"
@@ -54,6 +58,18 @@
     {
       "name": "前端入门到进阶图文教程",
       "url": "https://github.com/online-books/Web"
+    },
+    {
+      "name": "Halfrost-Field 冰霜之地",
+      "url": "https://github.com/online-books/Halfrost-Field"
+    },
+    {
+      "name": "jsliang 的文档库",
+      "url": "https://github.com/online-books/document-library"
+    },
+    {
+      "name": "小狮子前端の学习",
+      "url": "https://github.com/online-books/Front-end-learning-to-organize-notes"
     }
   ]
 }

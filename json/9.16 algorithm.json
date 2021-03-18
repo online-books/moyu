@@ -19,6 +19,14 @@
     {
       "name": "Algorithms and data structures implemented in JavaScript",
       "url": "https://github.com/online-books/javascript-algorithms"
+    },
+    {
+      "name": "leetcode题解",
+      "url": "https://github.com/online-books/leetcode"
+    },
+    {
+      "name": "汇总各大互联网公司容易考察的高频leetcode题",
+      "url": "https://github.com/online-books/LeetcodeTop"
     }
   ]
 }

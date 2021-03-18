@@ -102,6 +102,16 @@
       "name": "live-video-study-notes",
       "url": "https://github.com/online-books/live-video-study-notes",
       "remark": "整理前端视频直播相关技术的笔记"
+    },
+    {
+      "name": "awesome-a11y-cn",
+      "url": "https://github.com/online-books/awesome-a11y-cn",
+      "remark": "无障碍知识库"
+    },
+    {
+      "name": "risk-management-note",
+      "url": "https://github.com/online-books/risk-management-note",
+      "remark": "风险控制笔记 "
     }
   ]
 }
