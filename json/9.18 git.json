@@ -1,0 +1,12 @@
+{
+  "name": "Git",
+  "up-name": "📃 知 识",
+  "lever": 3,
+  "order": 18,
+  "repo": [
+    {
+      "name": "Git的奇技淫巧",
+      "url": "https://github.com/online-books/git-tips"
+    }
+  ]
+}

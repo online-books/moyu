@@ -39,6 +39,10 @@
     {
       "name": "现代 JavaScript 教程中文版",
       "url": "https://github.com/online-books/zh.javascript.info"
+    },
+    {
+      "name": "JavaScript 数据结构与算法",
+      "url": "https://github.com/online-books/js-data-structures-and-algorithms"
     }
   ]
 }

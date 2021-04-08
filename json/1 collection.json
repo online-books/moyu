@@ -42,6 +42,11 @@
       "name": "awesome-learning-resources",
       "url": "https://github.com/online-books/awesome-learning-resources",
       "remark": "收集最优质的学习资料"
+    },
+    {
+      "name": "recommended-books",
+      "url": "https://github.com/online-books/recommended-books",
+      "remark": "计算机经典书籍推荐"
     }
   ]
 }

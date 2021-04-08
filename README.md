@@ -2,10 +2,10 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-03-18</kbd>
-- 📊 : <kbd>118</kbd>
+- 📆 : <kbd>2021-04-08</kbd>
+- 📊 : <kbd>124</kbd>
 
-## 📒 合 集 <kbd>8</kbd>
+## 📒 合 集 <kbd>9</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -17,8 +17,9 @@
 | [technical-books](https://github.com/online-books/technical-books) | 国内外互联网技术大牛们都写了哪些书籍 |
 | [build-your-own-x](https://github.com/online-books/build-your-own-x) | Build your own (insert technology here) |
 | [awesome-learning-resources](https://github.com/online-books/awesome-learning-resources) | 收集最优质的学习资料 |
+| [recommended-books](https://github.com/online-books/recommended-books) | 计算机经典书籍推荐 |
 
-## 🗂 资 料 <kbd>22</kbd>
+## 🗂 资 料 <kbd>23</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -44,6 +45,7 @@
 | [live-video-study-notes](https://github.com/online-books/live-video-study-notes) | 整理前端视频直播相关技术的笔记 |
 | [awesome-a11y-cn](https://github.com/online-books/awesome-a11y-cn) | 无障碍知识库 |
 | [risk-management-note](https://github.com/online-books/risk-management-note) | 风险控制笔记  |
+| [CS-Notes](https://github.com/online-books/CS-Notes-1) | CS-Notes  |
 
 ## 🤺 面 试 <kbd>12</kbd>
 
@@ -106,7 +108,7 @@
 - [一个可以自己进行训练的中文聊天机器人](https://github.com/online-books/chatbot)
 - [HTTP API 设计指南](https://github.com/online-books/http-api-design-ZH_CN)
 
-### JavaScript <kbd>9</kbd>
+### JavaScript <kbd>10</kbd>
 
 - [你不知道的 JavaScript](https://github.com/online-books/You-Dont-Know-JS)
 - [JavaScript 20 年史](https://github.com/online-books/jshistory-cn)
@@ -117,12 +119,15 @@
 - [JavaScript 教程](https://github.com/online-books/javascript-tutorial)
 - [JavaScript Guidebook](https://github.com/online-books/javascript-guidebook)
 - [现代 JavaScript 教程中文版](https://github.com/online-books/zh.javascript.info)
+- [JavaScript 数据结构与算法](https://github.com/online-books/js-data-structures-and-algorithms)
 
-### TypeScript <kbd>3</kbd>
+### TypeScript <kbd>5</kbd>
 
 - [TypeScript 使用手册](https://github.com/online-books/TypeScript)
 - [TypeScript 入门教程](https://github.com/online-books/typescript-tutorial)
 - [The definitive guide to TypeScript](https://github.com/online-books/typescript-book)
+- [深入理解 TypeScript](https://github.com/online-books/typescript-book-chinese)
+- [Typescript 数据结构与算法分析](https://github.com/online-books/Data-Structures-and-Algorithm-Analysis-in-TS)
 
 ### Node.js <kbd>2</kbd>
 
@@ -196,6 +201,10 @@
 ### Python <kbd>1</kbd>
 
 - [Python - 100天从新手到大师](https://github.com/online-books/Python-100-Days)
+
+### Git <kbd>1</kbd>
+
+- [Git的奇技淫巧](https://github.com/online-books/git-tips)
 
 ## 🆕 新 增
 

@@ -15,6 +15,14 @@
     {
       "name": "The definitive guide to TypeScript",
       "url": "https://github.com/online-books/typescript-book"
+    },
+    {
+      "name": "深入理解 TypeScript",
+      "url": "https://github.com/online-books/typescript-book-chinese"
+    },
+    {
+      "name": "Typescript 数据结构与算法分析",
+      "url": "https://github.com/online-books/Data-Structures-and-Algorithm-Analysis-in-TS"
     }
   ]
 }
