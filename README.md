@@ -2,7 +2,7 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-04-08</kbd>
+- 📆 : <kbd>2021-04-09</kbd>
 - 📊 : <kbd>124</kbd>
 
 ## 📒 合 集 <kbd>9</kbd>
@@ -45,7 +45,7 @@
 | [live-video-study-notes](https://github.com/online-books/live-video-study-notes) | 整理前端视频直播相关技术的笔记 |
 | [awesome-a11y-cn](https://github.com/online-books/awesome-a11y-cn) | 无障碍知识库 |
 | [risk-management-note](https://github.com/online-books/risk-management-note) | 风险控制笔记  |
-| [CS-Notes](https://github.com/online-books/CS-Notes-1) | CS-Notes  |
+| [huangrt01-CS-Notes](https://github.com/online-books/huangrt01-CS-Notes) | huangrt01 学习笔记 |
 
 ## 🤺 面 试 <kbd>12</kbd>
 
