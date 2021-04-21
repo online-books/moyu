@@ -2,10 +2,10 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-04-09</kbd>
-- 📊 : <kbd>124</kbd>
+- 📆 : <kbd>2021-04-21</kbd>
+- 📊 : <kbd>128</kbd>
 
-## 📒 合 集 <kbd>9</kbd>
+## 📒 合 集 <kbd>10</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -18,6 +18,7 @@
 | [build-your-own-x](https://github.com/online-books/build-your-own-x) | Build your own (insert technology here) |
 | [awesome-learning-resources](https://github.com/online-books/awesome-learning-resources) | 收集最优质的学习资料 |
 | [recommended-books](https://github.com/online-books/recommended-books) | 计算机经典书籍推荐 |
+| [awesome-blockchain](https://github.com/online-books/awesome-blockchain) | 区块链资源汇总 |
 
 ## 🗂 资 料 <kbd>23</kbd>
 
@@ -84,7 +85,7 @@
 - [jsliang 的文档库](https://github.com/online-books/document-library)
 - [小狮子前端の学习](https://github.com/online-books/Front-end-learning-to-organize-notes)
 
-## 🖥 教 程 <kbd>6</kbd>
+## 🖥 教 程 <kbd>7</kbd>
 
 - [全栈工程师培训材料](https://github.com/online-books/jstraining)
 - [Learning Google V8](https://github.com/online-books/learning-v8)
@@ -92,6 +93,7 @@
 - [GitHub 漫游指南](https://github.com/online-books/github)
 - [30 分钟入门](https://github.com/online-books/30min_guides)
 - [How to use Babel and how to create plugins for Babel](https://github.com/online-books/babel-handbook)
+- [一人公司方法论](https://github.com/online-books/one-person-businesses-methodology)
 
 ## 📃 知 识
 
@@ -108,7 +110,7 @@
 - [一个可以自己进行训练的中文聊天机器人](https://github.com/online-books/chatbot)
 - [HTTP API 设计指南](https://github.com/online-books/http-api-design-ZH_CN)
 
-### JavaScript <kbd>10</kbd>
+### JavaScript <kbd>11</kbd>
 
 - [你不知道的 JavaScript](https://github.com/online-books/You-Dont-Know-JS)
 - [JavaScript 20 年史](https://github.com/online-books/jshistory-cn)
@@ -120,6 +122,7 @@
 - [JavaScript Guidebook](https://github.com/online-books/javascript-guidebook)
 - [现代 JavaScript 教程中文版](https://github.com/online-books/zh.javascript.info)
 - [JavaScript 数据结构与算法](https://github.com/online-books/js-data-structures-and-algorithms)
+- [clean-code-javascript](https://github.com/online-books/clean-code-javascript)
 
 ### TypeScript <kbd>5</kbd>
 
@@ -149,10 +152,11 @@
 
 - [100-days-of-angular](https://github.com/online-books/100-days-of-angular)
 
-### Go <kbd>2</kbd>
+### Go <kbd>3</kbd>
 
 - [Go 入门指南](https://github.com/online-books/the-way-to-go_ZH_CN)
 - [玩转 Go](https://github.com/online-books/Mastering_Go_ZH_CN)
+- [Go语言101](https://github.com/online-books/golang101)
 
 ### Rust <kbd>2</kbd>
 

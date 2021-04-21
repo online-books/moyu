@@ -43,6 +43,10 @@
     {
       "name": "JavaScript 数据结构与算法",
       "url": "https://github.com/online-books/js-data-structures-and-algorithms"
+    },
+    {
+      "name": "clean-code-javascript",
+      "url": "https://github.com/online-books/clean-code-javascript"
     }
   ]
 }

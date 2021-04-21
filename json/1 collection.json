@@ -47,6 +47,11 @@
       "name": "recommended-books",
       "url": "https://github.com/online-books/recommended-books",
       "remark": "计算机经典书籍推荐"
+    },
+    {
+      "name": "awesome-blockchain",
+      "url": "https://github.com/online-books/awesome-blockchain",
+      "remark": "区块链资源汇总"
     }
   ]
 }

@@ -11,6 +11,10 @@
     {
       "name": "玩转 Go",
       "url": "https://github.com/online-books/Mastering_Go_ZH_CN"
+    },
+    {
+      "name": "Go语言101",
+      "url": "https://github.com/online-books/golang101"
     }
   ]
 }
