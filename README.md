@@ -2,10 +2,10 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-04-21</kbd>
-- 📊 : <kbd>128</kbd>
+- 📆 : <kbd>2021-06-29</kbd>
+- 📊 : <kbd>131</kbd>
 
-## 📒 合 集 <kbd>10</kbd>
+## 📒 合 集 <kbd>11</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -19,6 +19,7 @@
 | [awesome-learning-resources](https://github.com/online-books/awesome-learning-resources) | 收集最优质的学习资料 |
 | [recommended-books](https://github.com/online-books/recommended-books) | 计算机经典书籍推荐 |
 | [awesome-blockchain](https://github.com/online-books/awesome-blockchain) | 区块链资源汇总 |
+| [The Book of Secret Knowledge](https://github.com/online-books/the-book-of-secret-knowledge) | 程序员各种材料和工具的汇总 |
 
 ## 🗂 资 料 <kbd>23</kbd>
 
@@ -65,7 +66,7 @@
 | [Front-End-Interview-Notebook](https://github.com/online-books/Front-End-Interview-Notebook) | 前端面试复习笔记 |
 | [React Interview Questions & Answers](https://github.com/online-books/reactjs-interview-questions) | List of top 500 ReactJS Interview Questions & Answers |
 
-## 📖 文 章 <kbd>17</kbd>
+## 📖 文 章 <kbd>18</kbd>
 
 - [ssh-blogs](https://github.com/online-books/ssh-blogs)
 - [Web 端口敲门的奇思妙想](https://github.com/online-books/js-port-knocking)
@@ -84,8 +85,9 @@
 - [Halfrost-Field 冰霜之地](https://github.com/online-books/Halfrost-Field)
 - [jsliang 的文档库](https://github.com/online-books/document-library)
 - [小狮子前端の学习](https://github.com/online-books/Front-end-learning-to-organize-notes)
+- [大李敖全集](https://github.com/online-books/leeao)
 
-## 🖥 教 程 <kbd>7</kbd>
+## 🖥 教 程 <kbd>8</kbd>
 
 - [全栈工程师培训材料](https://github.com/online-books/jstraining)
 - [Learning Google V8](https://github.com/online-books/learning-v8)
@@ -94,6 +96,7 @@
 - [30 分钟入门](https://github.com/online-books/30min_guides)
 - [How to use Babel and how to create plugins for Babel](https://github.com/online-books/babel-handbook)
 - [一人公司方法论](https://github.com/online-books/one-person-businesses-methodology)
+- [Art of README](https://github.com/online-books/art-of-readme)
 
 ## 📃 知 识
 

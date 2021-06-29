@@ -52,6 +52,11 @@
       "name": "awesome-blockchain",
       "url": "https://github.com/online-books/awesome-blockchain",
       "remark": "区块链资源汇总"
+    },
+    {
+      "name": "The Book of Secret Knowledge",
+      "url": "https://github.com/online-books/the-book-of-secret-knowledge",
+      "remark": "程序员各种材料和工具的汇总"
     }
   ]
 }
