@@ -53,7 +53,7 @@ async function main() {
     console.log(`new-length: ${repos.length}`);
     console.log(`noSyncs: ${noSyncs}`);
 
-    if (oldForks.length !== repos.length) {
+    if (oldForks.length !== repos.length && noSyncs.length) {
       let body = '';
       noSyncs.forEach(it => {
         body += `- ${it}
