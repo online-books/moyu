@@ -2,10 +2,10 @@
 
 这里收集了免费的书籍、文章、资料、教程。随意点开，摸鱼减压。
 
-- 📆 : <kbd>2021-06-29</kbd>
-- 📊 : <kbd>131</kbd>
+- 📆 : <kbd>2022-05-23</kbd>
+- 📊 : <kbd>133</kbd>
 
-## 📒 合 集 <kbd>11</kbd>
+## 📒 合 集 <kbd>12</kbd>
 
 | 名称 | 备注 |
 | -- | -- |
@@ -20,6 +20,7 @@
 | [recommended-books](https://github.com/online-books/recommended-books) | 计算机经典书籍推荐 |
 | [awesome-blockchain](https://github.com/online-books/awesome-blockchain) | 区块链资源汇总 |
 | [The Book of Secret Knowledge](https://github.com/online-books/the-book-of-secret-knowledge) | 程序员各种材料和工具的汇总 |
+| [Game-Programmer-Study-Notes](https://github.com/online-books/Game-Programmer-Study-Notes) | 我的游戏程序员生涯的读书笔记合辑 |
 
 ## 🗂 资 料 <kbd>23</kbd>
 
@@ -87,7 +88,7 @@
 - [小狮子前端の学习](https://github.com/online-books/Front-end-learning-to-organize-notes)
 - [大李敖全集](https://github.com/online-books/leeao)
 
-## 🖥 教 程 <kbd>8</kbd>
+## 🖥 教 程 <kbd>9</kbd>
 
 - [全栈工程师培训材料](https://github.com/online-books/jstraining)
 - [Learning Google V8](https://github.com/online-books/learning-v8)
@@ -97,6 +98,7 @@
 - [How to use Babel and how to create plugins for Babel](https://github.com/online-books/babel-handbook)
 - [一人公司方法论](https://github.com/online-books/one-person-businesses-methodology)
 - [Art of README](https://github.com/online-books/art-of-readme)
+- [打造超人學習能力](https://github.com/online-books/learn-hack)
 
 ## 📃 知 识
 
